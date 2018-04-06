@@ -1,4 +1,6 @@
 # HTM.swift
+
+[![Join the chat at https://gitter.im/2075/HTM.swift](https://badges.gitter.im/2075/HTM.swift.svg)](https://gitter.im/2075/HTM.swift?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 porting of the Nupic/HTM algorithms to Swift
 
 Join the chat at https://gitter.im/2075/HTM.swift
